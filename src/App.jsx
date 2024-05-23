@@ -1,16 +1,9 @@
 import  DashBoard from './Component/Dashboard'
 
-
-
 function App() {
-
-
   return (
     <>
-   
-  
     <DashBoard/>
-   
     </>
   )
 }
