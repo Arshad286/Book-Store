@@ -1,0 +1,44 @@
+/* Dashboard.css */
+.ant-layout-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    color: #fff;
+  }
+  
+  .ant-btn-primary:hover {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+    color: #fff;
+  }
+  
+  .ant-table {
+    background-color: #fff;
+  }
+  
+  .ant-input-affix-wrapper {
+    border-radius: 4px;
+  }
+  
+  .ant-input-search-button {
+    border-radius: 4px;
+    background-color: #1890ff;
+    border-color: #1890ff;
+    color: #fff;
+  }
+  
+  .ant-layout-content {
+    background-color: #f0f2f5;
+    padding: 24px;
+  }
+  
+  .ant-table-wrapper {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+  }
+  
