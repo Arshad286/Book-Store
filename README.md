@@ -57,3 +57,7 @@ Custom styles for the login component.
 
 ## API
 The book data is fetched from the Open Library API. Refer to the Open Library API documentation for more details.
+
+## Deployment
+The app is deployed to [Netlify](https://www.netlify.com/). You can view the deployed version [here](https://librarydashboard.netlify.app/).
+
