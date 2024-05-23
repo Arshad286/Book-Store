@@ -31,8 +31,8 @@ A React-based admin dashboard to view and manage book records. The dashboard all
 
 **Login:**
 Use the following credentials to log in:
-  Username: admin
-  Password: password
+- Username: admin
+- Password: password
   
 **Dashboard Operations:**
 
